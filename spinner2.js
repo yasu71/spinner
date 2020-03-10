@@ -12,3 +12,5 @@ for (const spinner of spinners) {
     process.stdout.write(spinner);
   }, time)
 }
+
+// hello git test
